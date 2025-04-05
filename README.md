@@ -17,6 +17,11 @@ The goal of this project is to build an end-to-end data pipeline capable of:
 - Enabling real-time and historical analysis for food delivery insights
 
 ## Architecture
+
+### Diagram:
+
+![Architecture Diagram](architecture_diagram.png)
+
 ### Dimension Table Load:
 
 - Dimension CSV files are uploaded to S3.
