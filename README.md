@@ -20,7 +20,7 @@ The goal of this project is to build an end-to-end data pipeline capable of:
 
 ### Diagram:
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](archietcture_diagram.png)
 
 ### Dimension Table Load:
 
